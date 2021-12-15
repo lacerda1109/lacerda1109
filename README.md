@@ -10,7 +10,7 @@
 
 <div align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=lacerda1109&show_icons=true&theme=dark" />
-<!--   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lacerda1109&layout=compact&theme=dark" /> -->
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lacerda1109&theme=dark" />
   <img height="160px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 </div>
 
@@ -18,8 +18,8 @@
 
 <div align="left">
 
-  <h4>Front-end Developer</h4>
-  <p>Fascinado pela área, estou sempre em busca de novos conhecimentos!</p>
+  <h4>Quem sou eu</h4>
+  <p>Do design web/gráfico para a programação. Há aproximadamente 1 ano nessa área que tanto me fascina. Atualmente meu foco principal é no Front-end, porém estou sempre inclinado a aprender novas tecnologias, nos mais diversos campos do desenvolvimento.</p>
   
   ##
   
@@ -53,23 +53,24 @@
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   </div>
 
-  ##
-
+##
+  
+<div align="center">
+  <h4>Deseja entrar em contato?</h4>
+  <p>Escolha uma das opções abaixo!</p>
   <div>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <a href="https://www.linkedin.com/in/gabriel-lacerda-361aa8205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:lacerda4110@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://t.me/lacerda1109"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   </div>
 </div>
-
-##
-
-<h4>Contatos</h4>
-<div>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</div>
-
+  
+<!--
+LINKS
+Badges: https://dev.to/envoy_/150-badges-for-github-pnk
+Gifs: https://giphy.com/
+-->
+  
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
