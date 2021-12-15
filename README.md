@@ -10,7 +10,7 @@
 
 <div align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=lacerda1109&show_icons=true&theme=dark" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lacerda1109&theme=dark" />
+<!--   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lacerda1109&theme=dark" /> -->
   <img height="160px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 </div>
 
